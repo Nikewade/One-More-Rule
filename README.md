@@ -35,6 +35,8 @@ Play as the adventurous eyeball character and journey through the castle while f
 ## Getting Started
 To experience "One More Rule," follow these steps:
 
+<a href="https://nikewade.itch.io/one-more-rule">Play The Game In The Browser Here</a>
+
 1. Clone or download this repository.
 2. Open the project in Unity (developed with Unity version 2020.3.28f1).
 3. Navigate to the main scene and press play to start the game.
